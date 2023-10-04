@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @trunghieuvu02
-- 👀 I’m interested in Machine Learning/Deep Learning in Time Series, Computer Vision in Manufacturing
-- 🌱 I’m currently learning Transformer architectures
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Machine Learning/Deep Learning in Time Series data, Computer Vision in Manufacturing, Streaming data.
+- 🌱 I’m currently working on predictive maintainance, remaining useful life (RUL).
+- 💞️ I’m looking to collaborate on machine learning applications with practical cases.
+- 📫 How to reach me: h.vu1@rgu.ac.uk
 
 <!---
 trunghieuvu02/trunghieuvu02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
