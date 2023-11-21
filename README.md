@@ -1,6 +1,4 @@
-![image](https://github.com/trunghieuvu02/trunghieuvu02/assets/146632014/ac4d4cc5-79c0-43f8-8e5b-20f16bed9ed5)
-
-- 👋 Hi, I’m @trunghieuvu02
+- 👋 Hi, I’m @trunghieuvu02. I'm working as a KTP - Data Scientist/ Machine Learning Engineer at ADC Ltd. in Scotland.
 - 👀 I’m interested in Machine Learning/Deep Learning in Time Series data, Computer Vision in Manufacturing, Streaming data.
 - 🌱 I’m currently working on predictive maintainance, remaining useful life (RUL). I use SOTA approaches such as Seq2Seq, Transformers with full attention, log sparse attention, and prob sparse attention (to be completed). The results are quite promissing!
 - 💞️ I’m looking to collaborate on machine learning applications with practical cases.
